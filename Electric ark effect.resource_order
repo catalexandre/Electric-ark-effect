@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"objLightningAnchor","order":3,"path":"objects/objLightningAnchor/objLightningAnchor.yy",},
+    {"name":"objPlayer","order":2,"path":"objects/objPlayer/objPlayer.yy",},
+    {"name":"sprLightningAnchor","order":1,"path":"sprites/sprLightningAnchor/sprLightningAnchor.yy",},
+  ],
+}
